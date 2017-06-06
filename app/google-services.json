@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299748917589",
+    "firebase_url": "https://savecontracts.firebaseio.com",
+    "project_id": "savecontracts",
+    "storage_bucket": "savecontracts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299748917589:android:f10a064423f8b664",
+        "android_client_info": {
+          "package_name": "com.example.ash.firebasewithrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299748917589-67kkh4l774s0pdisfjgvt3naasrug3ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmz8ntZ010D_KCOR3Ae9ZsJoKVb4B9zBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
